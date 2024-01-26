@@ -1,0 +1,9 @@
+*.pdf
+*.pptx
+*.pt
+*.pht
+*.env
+DogEmotion/
+Dog Emotion/ 
+dog-emotion/
+output_folder/
